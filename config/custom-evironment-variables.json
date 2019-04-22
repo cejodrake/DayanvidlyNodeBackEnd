@@ -1,4 +1,5 @@
 {
     "jwtPrivateKey": "jwtPrivateKey",
-    "db": "vidly_db"
+    "db": "vidly_db",
+    "port": "8080"
 }

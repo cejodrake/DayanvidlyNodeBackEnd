@@ -3,12 +3,13 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "SET NODE_ENV=Production && node index.js",
+        "start": "node index.js",
         "seed": "node seed.js",
         "test": "jest  --watchAll  --verbose --runInBand"
     },
     "engines": {
-        "node": "10.15.3"
+        "node": "10.15.3",
+        "npm": "6.4.1"
     },
     "keywords": [],
     "author": "",
